@@ -1,0 +1,21 @@
+@media screen and (max-width:769px)
+{
+.TBTN{
+    margin-top: -.3rem;
+}
+.Twrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.MainT{
+    width: 100%;
+}
+#roadmap .card {
+    margin:0 auto;
+  }
+  #iconsH{
+    display: flex;
+    justify-content: center;
+  }
+}
